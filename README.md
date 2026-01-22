@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Aspiring Data Scientist | CS Engineering Student | Web Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/Sarthaksb">
+  <a href="https://github.com/sarthak-bankar">
     <img src="https://komarev.com/ghpvc/?username=Sarthaksb&style=flat-square&color=blue" alt="GitHub Profile Views" />
   </a>
   <a href="https://www.linkedin.com/in/sarthak">
