@@ -8,7 +8,7 @@
   <a href="https://github.com/sarthak-bankar">
     <img src="https://komarev.com/ghpvc/?username=Sarthaksb&style=flat-square&color=blue" alt="GitHub Profile Views" />
   </a>
-  <a href="https://www.linkedin.com/in/sarthak">
+  <a href="https://www.linkedin.com/in/sarthak-bankar-sb07?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="LinkedIn" />
   </a>
   <a href="mailto:bankarsarthak88@gmail.com">
